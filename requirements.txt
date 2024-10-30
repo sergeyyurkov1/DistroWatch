@@ -1,0 +1,11 @@
+pandas
+plotly
+nbformat
+lxml
+beautifulsoup4
+httpx
+pycountry
+networkx[default]
+streamlit==1.35.0
+streamlit-echarts
+streamlit-plotly-events

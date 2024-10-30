@@ -1,0 +1,15 @@
+__pycache__
+.venv
+.nicegui
+*.bat
+test.py
+build.json
+output
+*.png
+!dwbanner.png
+*.html
+01.py
+02.py
+index.ipynb
+.env
+environment.yml
